@@ -28,6 +28,7 @@ var
 				{ writeln; }
 			end;
 	end;
+
 function biggest(t: tos):int64;
 var
 	c,up,right,left,diag,down,d,diag2 : int64;

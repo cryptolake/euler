@@ -20,7 +20,7 @@ begin
    i := 1;
    j := 1;
 
-   while d < 5 do
+   while d < 500 do
     begin
        j := j + 1;
        i := i + j;
